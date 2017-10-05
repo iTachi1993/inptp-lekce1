@@ -1,7 +1,11 @@
 <<<<<<< HEAD
 <<<<<<< HEAD
+<<<<<<< HEAD
 third line 
 4 
+=======
+HH 
+>>>>>>> parent of 411ea4a... Third commit
 =======
 HH 
 >>>>>>> parent of 411ea4a... Third commit
